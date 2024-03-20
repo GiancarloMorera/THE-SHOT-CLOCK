@@ -5,6 +5,6 @@ Danny Saravia
 Troy Mena
 ChatGPT
 ## Repository URL
-myurl
+https://www.github.com/GiancarloMorera/THE-SHOT-CLOCK
 ## Live URL
-myurl
+https://GiancarloMorera.github.io/THE-SHOT-CLOCK/
